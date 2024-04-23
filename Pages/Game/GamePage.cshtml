@@ -1,0 +1,96 @@
+﻿@page
+@using StratagemsGame.Pages.Game;
+@model StratagemsGame.Pages.Game.GamePageModel
+@{
+
+}
+
+
+<div class="container-fluid vh-100">
+    <div class="row justify-content-center align-items-center h-25">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    @Model.CategoryName
+                </div>
+                <div class="card-body"> 
+                    <h5 class="card-title"> @Model.StratName</h5>
+                    <table>
+                    @foreach(var key in Model.CurrentSequence)
+                    {
+                        <td class="arrow">
+                            <span id="@key" class="bi bi-@Model.arrowIcons[key]" style="font-size: 40px;"></span>
+                        </td>
+                    }
+                    </table> 
+                   <div hidden>
+                        <input type="text" id="cseq" value="@Model.CurrentSequence">
+                   </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    window.addEventListener('keyup', function(event){
+        handleKeyup(event.key);
+    });
+    let currentIndex = 0; 
+    const CurrentSequence = document.querySelectorAll('span.bi');
+    console.log(CurrentSequence);
+    function handleKeyup(key) 
+    {
+        var seq = Array.from(CurrentSequence);
+        var Ids = seq.map(function(span){
+            return span.id;
+        });
+        console.log(Ids);
+
+        if (key === GetKeyName(Ids[currentIndex])) {
+            currentIndex++;
+            console.log('correct');
+            var disabledarrow = document.getElementById(Ids[currentIndex-1]);
+            disabledarrow.className = '';
+            disabledarrow.id = 'Complete';
+            disabledarrow.className = SetCompleteIcon(Ids[currentIndex-1]);
+            if (currentIndex === Ids.length) {
+            alert('Sequence completed!');
+            currentIndex = 0;
+            }
+        } else{
+            console.log('wrong');
+            console.log(GetKeyName(Ids[currentIndex]));
+        }
+    }
+
+    function SetCompleteIcon(id){
+        switch (id){
+            case '39':
+            return 'bi-arrow-up-square-fill';
+            case '40':
+            return 'bi-arrow-down-square-fill';
+            case '37':
+            return 'bi-arrow-left-square-fill';
+            case '38':
+            return 'bi-arrow-right-square-fill'
+            default:
+            return 'bi-red-x';
+        }
+    }
+    function GetKeyName(key) {
+        console.log(key);
+    switch (key) {
+        case '39':
+            return 'ArrowUp';
+        case '40':
+            return 'ArrowDown';
+        case '37':
+            return 'ArrowLeft';
+        case '38':
+            return 'ArrowRight';
+        default:
+            return 'Unknown';
+    }
+}
+</script>
