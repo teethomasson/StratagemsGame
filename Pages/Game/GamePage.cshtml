@@ -15,13 +15,13 @@
                 </div>
                 <div class="card-body"> 
                     <h5 class="card-title"> @Model.StratName</h5>
-                    <table>
-                    @foreach(var key in Model.CurrentSequence)
-                    {
-                        <td class="arrow">
-                            <span id="@key" class="bi bi-@Model.arrowIcons[key]" style="font-size: 40px;"></span>
-                        </td>
-                    }
+                    <table id="table">
+                        @for(var i = 0; i < Model.CurrentSequence.Count(); i++)
+                        {
+                            <td class="arrow">
+                                <span id="@Model.CurrentSequence[i]" class="bi bi-@Model.arrowIcons[Model.CurrentSequence[i]]" style="font-size: 40px;"></span>
+                            </td>
+                        }
                     </table> 
                    <div hidden>
                         <input type="text" id="cseq" value="@Model.CurrentSequence">
@@ -48,14 +48,16 @@
         console.log(Ids);
 
         if (key === GetKeyName(Ids[currentIndex])) {
-            currentIndex++;
             console.log('correct');
-            var disabledarrow = document.getElementById(Ids[currentIndex-1]);
+            var disabledarrow = document.getElementById(Ids[currentIndex]);
             disabledarrow.className = '';
             disabledarrow.id = 'Complete';
-            disabledarrow.className = SetCompleteIcon(Ids[currentIndex-1]);
+            disabledarrow.className = SetCompleteIcon(Ids[currentIndex]);
+            currentIndex++;
             if (currentIndex === Ids.length) {
-            alert('Sequence completed!');
+            //alert('Sequence completed!');
+                const response = fetch('/Game/GamePage');
+                return await response;
             currentIndex = 0;
             }
         } else{
@@ -75,11 +77,10 @@
             case '38':
             return 'bi-arrow-right-square-fill'
             default:
-            return 'bi-red-x';
+            return 'bi-circle-x-fill';
         }
     }
     function GetKeyName(key) {
-        console.log(key);
     switch (key) {
         case '39':
             return 'ArrowUp';

@@ -28,3 +28,4 @@ D:\repos\StratagemsGame\obj\Debug\net8.0\refint\StratagemsGame.dll
 D:\repos\StratagemsGame\obj\Debug\net8.0\StratagemsGame.pdb
 D:\repos\StratagemsGame\obj\Debug\net8.0\StratagemsGame.genruntimeconfig.cache
 D:\repos\StratagemsGame\obj\Debug\net8.0\ref\StratagemsGame.dll
+d:\repos\StratagemsGame\obj\Debug\net8.0\StratagemsGame.sourcelink.json

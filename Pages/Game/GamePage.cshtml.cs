@@ -22,6 +22,15 @@ namespace StratagemsGame.Pages.Game
 
             GenerateSequence();
         }
+        public IActionResult OnGetNext()
+        {
+            string result = "";
+            GenerateSequence();
+            foreach(var code in CurrentSequence)
+            {
+                result += 
+            }
+        }
 
         public void GenerateSequence()
         {
@@ -34,11 +43,17 @@ namespace StratagemsGame.Pages.Game
         }
 
         public Dictionary<int, string> arrowIcons = new Dictionary<int, string>
-    {
-        {37, "arrow-left"},
-        {38, "arrow-right"},
-        {39, "arrow-up"},
-        {40, "arrow-down"}
-    };
+        {
+            {37, "arrow-left"},
+            {38, "arrow-right"},
+            {39, "arrow-up"},
+            {40, "arrow-down"}
+        }; 
+        public Dictionary<int, string>KeyNames = new Dictionary<int, string>{
+            {37,"ArrowLeft"},
+            {38, "ArrowRight"},
+            {39, "ArrowUp"},
+            {40, "ArrowDown"}
+        };
     }
 }
