@@ -9,47 +9,47 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StratagemsGame
 build_property.RootNamespace = StratagemsGame
-build_property.ProjectDir = d:\repos\StratagemsGame\
+build_property.ProjectDir = D:\repos\StratagemsGame\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\repos\StratagemsGame
+build_property.MSBuildProjectDirectory = D:\repos\StratagemsGame
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/repos/StratagemsGame/Pages/Error.cshtml]
+[D:/repos/StratagemsGame/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/Game/GamePage.cshtml]
+[D:/repos/StratagemsGame/Pages/Game/GamePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVxHYW1lUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/Game/_StratagemView.cshtml]
+[D:/repos/StratagemsGame/Pages/Game/_StratagemView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2FtZVxfU3RyYXRhZ2VtVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/Index.cshtml]
+[D:/repos/StratagemsGame/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/Privacy.cshtml]
+[D:/repos/StratagemsGame/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/repos/StratagemsGame/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/_ViewImports.cshtml]
+[D:/repos/StratagemsGame/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/_ViewStart.cshtml]
+[D:/repos/StratagemsGame/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/repos/StratagemsGame/Pages/Shared/_Layout.cshtml]
+[D:/repos/StratagemsGame/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hdpfegkrad
