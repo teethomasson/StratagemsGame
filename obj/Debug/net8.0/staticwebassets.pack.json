@@ -13,6 +13,258 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\HMG Emplacement.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Bridge\\HMG Emplacement.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital EMS Strike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital EMS Strike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Gas Strike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital Gas Strike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Precision Strike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital Precision Strike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Smoke Strike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital Smoke Strike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Shield Generator Relay.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Shield Generator Relay.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Tesla Tower.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Tesla Tower.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Arc Thrower.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Arc Thrower.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Grenade Launcher.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Grenade Launcher.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Incendiary Mines.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Incendiary Mines.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Laser Cannon.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Laser Cannon.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Quasar Cannon.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Quasar Cannon.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Supply Pack.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Supply Pack.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Hellbomb.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Hellbomb.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Prospecting Drill.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Prospecting Drill.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Reinforce.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Reinforce.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Resupply.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Resupply.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SEAF Artillery.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\SEAF Artillery.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SOS Beacon.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\SOS Beacon.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Seismic Probe.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Seismic Probe.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Super Earth Flag.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Super Earth Flag.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Upload Data.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Upload Data.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Airstrike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Airstrike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Rearm.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Rearm.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Smoke Strike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Smoke Strike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Strafing Run.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Strafing Run.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Jump Pack.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Jump Pack.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Laser.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Laser.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Autocannon.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Autocannon.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Railgun.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Railgun.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Spear.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Spear.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Stalwart.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Stalwart.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Guard Dog.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Guard Dog.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg"
+    },
+    {
+      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg",
+      "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg"
+    },
+    {
       "Id": "d:\\repos\\StratagemsGame\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

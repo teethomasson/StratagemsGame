@@ -9,7 +9,7 @@
 <div class="container-fluid vh-100">
     <div class="row justify-content-center align-items-center h-25">
         <div class="col-md-6">
-            <div class="card">
+            <div id="card" class="card">
                 <div class="card-header">
                     @Model.CategoryName
                 </div>
@@ -20,7 +20,7 @@
                         {
                             <td class="arrow">
                                 <span id="@Model.CurrentSequence[i]" class="bi bi-@Model.arrowIcons[Model.CurrentSequence[i]]" style="font-size: 40px;"></span>
-                            </td>
+                            </td> 
                         }
                     </table> 
                    <div hidden>
@@ -53,17 +53,32 @@
             disabledarrow.className = '';
             disabledarrow.id = 'Complete';
             disabledarrow.className = SetCompleteIcon(Ids[currentIndex]);
-            currentIndex++;
+            currentIndex++; 
             if (currentIndex === Ids.length) {
-            //alert('Sequence completed!');
-                const response = fetch('/Game/GamePage');
-                return await response;
-            currentIndex = 0;
+                currentIndex = 0;
+                getNextSequence();
             }
         } else{
-            console.log('wrong');
-            console.log(GetKeyName(Ids[currentIndex]));
+            console.log('wrong:'+GetKeyName(Ids[currentIndex]));
         }
+    }
+
+    async function getNextSequence() {
+         try {
+        const response = await fetch('/game/gamepage?handler=Next');
+
+        if (!response.ok) {
+            throw new Error('Network response was not OK');
+        }
+
+        const html = await response.text();
+
+        // Assuming you have an element with the ID "myContainer" to display the HTML
+        document.getElementById('card').innerHTML = html;
+    } catch (error) {
+        console.error('Error fetching HTML:', error);
+        // Handle the error (e.g., show an error message to the user)
+    }
     }
 
     function SetCompleteIcon(id){

@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
 using System.Text.Json;
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
@@ -13,7 +16,9 @@ namespace StratagemsGame.Pages.Game
         [BindProperty]
         public List<int> CurrentSequence { get; set; }
         public int? CurrentLevel { get; set; } 
+        [BindProperty]
         public string? StratName { get; set; }
+        [BindProperty]
         public string? CategoryName { get; set; }
         public int Score { get; set; } = 0;
 
@@ -24,12 +29,14 @@ namespace StratagemsGame.Pages.Game
         }
         public IActionResult OnGetNext()
         {
-            string result = "";
             GenerateSequence();
+;           string result = "<div class='card-header' hx-target='#card-header' hx-swap='innerHtml'>"+ CategoryName+ "</div><div class='card-body'><h5 class='card-title'>"+StratName+"</h5><table id='table'>";
             foreach(var code in CurrentSequence)
             {
-                result += 
+                result += $@"<td class='arrow'><span id='{code}' class='bi bi-{arrowIcons[code]}' style='font-size: 40px;'></span></td>";
             }
+            result += "</table><div hidden><input type='text' id=cseq value='"+CurrentSequence+"'></div>";
+            return Content(result);
         }
 
         public void GenerateSequence()
