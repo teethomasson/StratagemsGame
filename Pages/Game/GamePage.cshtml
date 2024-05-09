@@ -14,7 +14,7 @@
                     @Model.CategoryName
                 </div>
                 <div class="card-body"> 
-                    <h5 class="card-title"> @Model.StratName</h5>
+                    <h5 class="card-title"> @Model.StratName</h5><span><br /><img class="sicon" src="@Model.ImagePath"/></img></span>
                     <table id="table">
                         @for(var i = 0; i < Model.CurrentSequence.Count(); i++)
                         {
@@ -33,12 +33,15 @@
 </div>
 
 <script>
+    let currentIndex = 0; 
+    let CurrentSequence = document.querySelectorAll('span.bi');
     window.addEventListener('keyup', function(event){
         handleKeyup(event.key);
     });
-    let currentIndex = 0; 
-    const CurrentSequence = document.querySelectorAll('span.bi');
-    console.log(CurrentSequence);
+
+    window.addEventListener('htmx:afterOnLoad', function(evt){
+        Reset();
+    })
     function handleKeyup(key) 
     {
         var seq = Array.from(CurrentSequence);
@@ -57,10 +60,15 @@
             if (currentIndex === Ids.length) {
                 currentIndex = 0;
                 getNextSequence();
+                
             }
         } else{
             console.log('wrong:'+GetKeyName(Ids[currentIndex]));
         }
+    }
+
+    function Reset(){
+        CurrentSequence = document.querySelectorAll('span.bi');
     }
 
     async function getNextSequence() {
@@ -74,6 +82,7 @@
         const html = await response.text();
 
         document.getElementById('card').innerHTML = html;
+        Reset();
     } catch (error) {
         console.error('Error fetching HTML:', error);
         }

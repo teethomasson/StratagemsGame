@@ -21,6 +21,8 @@ namespace StratagemsGame.Pages.Game
         [BindProperty]
         public string? CategoryName { get; set; }
         public int Score { get; set; } = 0;
+        [BindProperty]
+        public string ImagePath { get; set; } = string.Empty;
 
         public void OnGet()
         {
@@ -30,7 +32,7 @@ namespace StratagemsGame.Pages.Game
         public IActionResult OnGetNext()
         {
             GenerateSequence();
-;           string result = "<div class='card-header' hx-target='#card-header' hx-swap='innerHtml'>"+ CategoryName+ "</div><div class='card-body'><h5 class='card-title'>"+StratName+"</h5><table id='table'>";
+;           string result = "<div class='card-header' hx-target='#card-header' hx-swap='innerHtml'>"+ CategoryName+ "</div><div class='card-body'><h5 class='card-title'>"+StratName+"</h5><span><img class='sicon' src='"+ImagePath+"'/></i></span><table id='table'>";
             foreach(var code in CurrentSequence)
             {
                 result += $@"<td class='arrow'><span id='{code}' class='bi bi-{arrowIcons[code]}' style='font-size: 40px;'></span></td>";
@@ -39,7 +41,7 @@ namespace StratagemsGame.Pages.Game
             return Content(result);
         }
 
-        public void GenerateSequence()
+        public async void GenerateSequence()
         {
             CodeList = stratagems.codeList;
             CodeCategory category = CodeList[Random.Shared.Next(CodeList.Count)];
@@ -47,6 +49,7 @@ namespace StratagemsGame.Pages.Game
             CategoryName = category.Name;
             StratName = sequence.Name;
             CurrentSequence = sequence.Keys;
+            ImagePath = sequence.ImagePath;
         }
 
         public Dictionary<int, string> arrowIcons = new Dictionary<int, string>

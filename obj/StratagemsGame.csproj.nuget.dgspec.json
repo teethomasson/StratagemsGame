@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\StratagemsGame\\StratagemsGame.csproj": {}
+    "d:\\repos\\StratagemsGame\\StratagemsGame.csproj": {}
   },
   "projects": {
-    "D:\\repos\\StratagemsGame\\StratagemsGame.csproj": {
+    "d:\\repos\\StratagemsGame\\StratagemsGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\StratagemsGame\\StratagemsGame.csproj",
+        "projectUniqueName": "d:\\repos\\StratagemsGame\\StratagemsGame.csproj",
         "projectName": "StratagemsGame",
-        "projectPath": "D:\\repos\\StratagemsGame\\StratagemsGame.csproj",
+        "projectPath": "d:\\repos\\StratagemsGame\\StratagemsGame.csproj",
         "packagesPath": "C:\\Users\\Scurv\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\StratagemsGame\\obj\\",
+        "outputPath": "d:\\repos\\StratagemsGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Scurv\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -27,3 +27,15 @@ body {
 .arrow{
   display:inline-flex;
 }
+
+.sicon{
+  height: 128px;
+  width: 128px;
+  background-color: rgb(70, 67, 67);
+  border: 5px solid #39FF14;
+  border-radius: 5px;
+}
+
+.card-body{
+   align-items: center;
+}
