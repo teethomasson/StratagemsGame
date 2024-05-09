@@ -339,7 +339,7 @@ public class Stratagems
                 {
                     Name = "Incendiary Mines",
                     Keys = new List<int> {40, 37, 37, 40},
-                    ImagePath = @"/img/icons/Engineering Bay/Indendiary Mines.svg"
+                    ImagePath = @"/img/icons/Engineering Bay/Incendiary Mines.svg"
                 },
                 new CodeSequence
                 {
