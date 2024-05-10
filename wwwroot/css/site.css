@@ -1,5 +1,6 @@
 html {
   font-size: 14px;
+  background-color: #1b1f22;
 }
 
 @media (min-width: 768px) {
@@ -22,12 +23,18 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #1b1f22;
+  color: #f5f6f7;
 }
 
 .arrow{
   display:inline-flex;
 }
-
+.card{
+  align-content: center;
+  background-color: #25292e;
+  border: 2px solid lightgray;
+}
 .sicon{
   height: 128px;
   width: 128px;
