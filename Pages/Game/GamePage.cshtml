@@ -5,7 +5,12 @@
 
 }
 
-
+<div class="scoreBoard">
+    <label>@Model.Score</label>
+</div>
+<div class="countDownTimer">
+    <progress value="100" max="100" id="pbar"></progress>
+</div>
 <div class="container-fluid">
     <div class="row justify-content-center align-items-center h-25">
         <div class="col">
@@ -34,6 +39,8 @@
 
 <script>
     let currentIndex = 0; 
+    let count = 30;
+    let score = 0;
     let CurrentSequence = document.querySelectorAll('span.bi');
     window.addEventListener('keyup', function(event){
         handleKeyup(event.key);
@@ -59,11 +66,12 @@
             currentIndex++; 
             if (currentIndex === Ids.length) {
                 currentIndex = 0;
+                count ++;
+                @Model.Score++;
                 getNextSequence();
-                
             }
         } else{
-            console.log('wrong:'+GetKeyName(Ids[currentIndex]));
+            currentIndex = 0; //Reset on incorrect key
         }
     }
 
@@ -114,6 +122,19 @@
             return 'ArrowRight';
         default:
             return 'Unknown';
+    }
+
+    function Timer(){
+        const timer = setInterval(function() {
+            count--;
+            if(count === 0){
+                gameOver();
+            }
+        }, 1000);
+    }
+
+    function gameOver(){
+        alert("Game Over  Score:"+@Model.Score);
     }
 }
 </script>
