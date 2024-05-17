@@ -8,8 +8,8 @@
 <div class="scoreBoard">
     <label>@Model.Score</label>
 </div>
-<div class="countDownTimer">
-    <progress value="100" max="100" id="pbar"></progress>
+<div class="progressBar">
+  <div class="bar"></div>
 </div>
 <div class="container-fluid">
     <div class="row justify-content-center align-items-center h-25">
@@ -66,17 +66,20 @@
             currentIndex++; 
             if (currentIndex === Ids.length) {
                 currentIndex = 0;
-                count ++;
-                @Model.Score++;
+                remainingTime + 10;
                 getNextSequence();
             }
         } else{
             currentIndex = 0; //Reset on incorrect key
+            Reset();
         }
     }
 
     function Reset(){
         CurrentSequence = document.querySelectorAll('span.bi');
+        CurrentSequence.forEach(element => function(){
+            ResetIcons(element.id);
+        })
     }
 
     async function getNextSequence() {
@@ -110,6 +113,22 @@
             return 'bi-circle-x-fill';
         }
     }
+
+    function ResetIcons(id){
+        switch (id){
+            case '39':
+            return 'bi-arrow-up';
+            case '40':
+            return 'bi-arrow-down';
+            case '37':
+            return 'bi-arrow-left';
+            case '38':
+            return 'bi-arrow-right'
+            default:
+            return 'bi-circle';
+        }
+    }
+
     function GetKeyName(key) {
     switch (key) {
         case '39':
@@ -122,8 +141,8 @@
             return 'ArrowRight';
         default:
             return 'Unknown';
+        }
     }
-
     function Timer(){
         const timer = setInterval(function() {
             count--;
@@ -134,7 +153,24 @@
     }
 
     function gameOver(){
-        alert("Game Over  Score:"+@Model.Score);
+        
     }
-}
+
+    const progressBarEl = document.querySelector(".bar");
+
+    let remainingTime = 60;
+    const totalTime = remainingTime;
+
+    function countdown(){
+        if(remainingTime > 0){
+            const progress = ((totalTime - remainingTime)/ totalTime) * 100;
+            progressBarEl.style.width = `${progress}%`;
+            remainingTime--;
+            setTimeout(countdown, 1000);
+        }else{
+            progressBarEl.style.width = "100%";
+        }
+    }
+
+countdown();
 </script>
