@@ -30,10 +30,19 @@ body {
 .arrow{
   display:inline-flex;
 }
+
 .card{
   align-content: center;
   background-color: #25292e;
   border: 2px solid lightgray;
+  margin-left:auto;
+  margin-right:auto;
+  min-width:auto;
+  max-width: 500px;
+}
+
+.cardheader{
+  align-content: center;
 }
 .sicon{
   height: 128px;

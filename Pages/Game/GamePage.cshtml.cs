@@ -29,7 +29,7 @@ namespace StratagemsGame.Pages.Game
         public IActionResult OnGetNext()
         {
             GenerateSequence();
-           string result = "<div class='card-header' hx-target='#card-header' hx-swap='innerHtml'>"+ CategoryName+ "</div><div class='card-body'><h5 class='card-title'>"+StratName+"</h5><span><img class='sicon' src='"+ImagePath+"'/></i></span><table id='table'>";
+           string result = "<div class='card-header text-center' hx-target='#card-header' hx-swap='innerHtml'>"+ CategoryName+ "</div><div class='card-body text-center'><h5 class='card-title'>"+StratName+"</h5><span><img class='sicon' src='"+ImagePath+"'/></i></span><table id='table'>";
             foreach(var code in CurrentSequence)
             {
                 result += $@"<td class='arrow'><span id='{code}' class='bi bi-{arrowIcons[code]}' style='font-size: 40px;'></span></td>";

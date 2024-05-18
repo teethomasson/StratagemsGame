@@ -11,16 +11,16 @@
 <div class="progressBar">
   <div class="bar"></div>
 </div>
-<div class="container-fluid">
+<div class="container">
     <div class="row justify-content-center align-items-center h-25">
         <div class="col">
             <div id="card" class="card">
-                <div class="card-header">
+                <div class="card-header text-center">
                     @Model.CategoryName
                 </div>
-                <div class="card-body"> 
+                <div class="card-body text-center"> 
                     <h5 class="card-title"> @Model.StratName</h5><span><br /><img class="sicon" src="@Model.ImagePath"/></img></span>
-                    <table id="table">
+                    <table id="table"></table>
                         @for(var i = 0; i < Model.CurrentSequence.Count(); i++)
                         {
                             <td class="arrow">
@@ -56,47 +56,52 @@
             return span.id;
         });
         console.log(Ids);
-
         if (key === GetKeyName(Ids[currentIndex])) {
             console.log('correct');
             var disabledarrow = document.getElementById(Ids[currentIndex]);
             disabledarrow.className = '';
-            disabledarrow.id = 'Complete';
+            disabledarrow.id += ' Complete';
             disabledarrow.className = SetCompleteIcon(Ids[currentIndex]);
             currentIndex++; 
             if (currentIndex === Ids.length) {
                 currentIndex = 0;
-                remainingTime + 10;
+                remainingTime + 5;
                 getNextSequence();
             }
         } else{
             currentIndex = 0; //Reset on incorrect key
             Reset();
+            console.log('wrong');
         }
     }
 
     function Reset(){
         CurrentSequence = document.querySelectorAll('span.bi');
         CurrentSequence.forEach(element => function(){
-            ResetIcons(element.id);
-        })
+            alert(element.id);
+            var icon = ResetIcons(element.id);
+            element.className = '';
+            var splitId = element.id.split(' ');
+            element.id = splitId[0];
+            element.classList.add(icon);
+        });
     }
 
     async function getNextSequence() {
-         try {
-        const response = await fetch('/game/gamepage?handler=Next');
+        try {
+            const response = await fetch('/game/gamepage?handler=Next');
 
-        if (!response.ok) {
-            throw new Error('Network response was not OK');
-        }
+            if (!response.ok) {
+                throw new Error('Network response was not OK');
+            }
 
-        const html = await response.text();
+            const html = await response.text();
 
-        document.getElementById('card').innerHTML = html;
-        Reset();
-    } catch (error) {
-        console.error('Error fetching HTML:', error);
-        }
+            document.getElementById('card').innerHTML = html;
+            Reset();
+        } catch (error) {
+            console.error('Error fetching HTML:', error);
+            }
     }
 
     function SetCompleteIcon(id){
@@ -115,6 +120,8 @@
     }
 
     function ResetIcons(id){
+
+
         switch (id){
             case '39':
             return 'bi-arrow-up';
@@ -127,6 +134,8 @@
             default:
             return 'bi-circle';
         }
+
+
     }
 
     function GetKeyName(key) {
