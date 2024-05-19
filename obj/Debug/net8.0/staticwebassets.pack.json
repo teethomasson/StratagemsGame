@@ -1,499 +1,499 @@
 {
   "Files": [
     {
-      "Id": "d:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StratagemsGame.bundle.scp.css",
+      "Id": "D:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StratagemsGame.bundle.scp.css",
       "PackagePath": "staticwebassets\\StratagemsGame.bundle.scp.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\css\\site.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\favicon.ico",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\HMG Emplacement.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\HMG Emplacement.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Bridge\\HMG Emplacement.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital EMS Strike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital EMS Strike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital EMS Strike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Gas Strike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Gas Strike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital Gas Strike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Precision Strike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Precision Strike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital Precision Strike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Smoke Strike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Smoke Strike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Orbital Smoke Strike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Shield Generator Relay.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Shield Generator Relay.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Shield Generator Relay.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Tesla Tower.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Tesla Tower.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Bridge\\Tesla Tower.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Arc Thrower.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Arc Thrower.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Arc Thrower.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Grenade Launcher.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Grenade Launcher.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Grenade Launcher.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Incendiary Mines.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Incendiary Mines.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Incendiary Mines.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Laser Cannon.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Laser Cannon.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Laser Cannon.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Quasar Cannon.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Quasar Cannon.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Quasar Cannon.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Supply Pack.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Supply Pack.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Engineering Bay\\Supply Pack.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Hellbomb.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Hellbomb.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Hellbomb.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Prospecting Drill.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Prospecting Drill.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Prospecting Drill.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Reinforce.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Reinforce.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Reinforce.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Resupply.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Resupply.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Resupply.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SEAF Artillery.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SEAF Artillery.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\SEAF Artillery.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SOS Beacon.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SOS Beacon.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\SOS Beacon.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Seismic Probe.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Seismic Probe.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Seismic Probe.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Super Earth Flag.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Super Earth Flag.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Super Earth Flag.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Upload Data.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Upload Data.svg",
       "PackagePath": "staticwebassets\\img\\icons\\General Stratagems\\Upload Data.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Airstrike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Airstrike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Airstrike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Rearm.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Rearm.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Rearm.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Smoke Strike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Smoke Strike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Smoke Strike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Strafing Run.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Strafing Run.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Eagle Strafing Run.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Jump Pack.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Jump Pack.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Hangar\\Jump Pack.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Laser.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Laser.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Laser.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Autocannon.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Autocannon.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Autocannon.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Railgun.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Railgun.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Railgun.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Spear.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Spear.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Spear.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Stalwart.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Stalwart.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Patriotic Administration Center\\Stalwart.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Guard Dog.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Guard Dog.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Guard Dog.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg",
       "PackagePath": "staticwebassets\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\js\\site.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

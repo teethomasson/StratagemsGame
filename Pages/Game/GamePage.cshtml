@@ -5,8 +5,8 @@
 
 }
 
-<div class="scoreBoard">
-    <label>@Model.Score</label>
+<div id="scoreBoard">
+   Score: 0
 </div>
 <div class="progressBar">
   <div class="bar"></div>
@@ -20,7 +20,7 @@
                 </div>
                 <div class="card-body text-center"> 
                     <h5 class="card-title"> @Model.StratName</h5><span><br /><img class="sicon" src="@Model.ImagePath"/></img></span>
-                    <table id="table"></table>
+                    <table id="table" style="margin-left:auto;margin-right:auto;">
                         @for(var i = 0; i < Model.CurrentSequence.Count(); i++)
                         {
                             <td class="arrow">
@@ -44,11 +44,11 @@
     let CurrentSequence = document.querySelectorAll('span.bi');
     window.addEventListener('keyup', function(event){
         handleKeyup(event.key);
-    });
+    },true);
 
     window.addEventListener('htmx:afterOnLoad', function(evt){
         Reset();
-    })
+    });
     function handleKeyup(key) 
     {
         var seq = Array.from(CurrentSequence);
@@ -57,34 +57,38 @@
         });
         console.log(Ids);
         if (key === GetKeyName(Ids[currentIndex])) {
-            console.log('correct');
             var disabledarrow = document.getElementById(Ids[currentIndex]);
             disabledarrow.className = '';
             disabledarrow.id += ' Complete';
             disabledarrow.className = SetCompleteIcon(Ids[currentIndex]);
-            currentIndex++; 
+            currentIndex++;
+             
             if (currentIndex === Ids.length) {
                 currentIndex = 0;
-                remainingTime + 5;
                 getNextSequence();
+                incrementScore();
             }
         } else{
-            currentIndex = 0; //Reset on incorrect key
             Reset();
-            console.log('wrong');
+            //currentIndex = 0; //Reset on incorrect key
+            console.log(key + GetKeyName(Ids[currentIndex]));
         }
     }
 
     function Reset(){
-        CurrentSequence = document.querySelectorAll('span.bi');
-        CurrentSequence.forEach(element => function(){
-            alert(element.id);
-            var icon = ResetIcons(element.id);
+        console.log(CurrentSequence);
+        CurrentSequence.forEach(element => {
             element.className = '';
-            var splitId = element.id.split(' ');
-            element.id = splitId[0];
-            element.classList.add(icon);
+            if(element.id.includes('Complete')){
+                var splitId = element.id.split(' ');
+                element.id = splitId[0].trim();
+            }
+            var icon = ResetIcons(element.id);
+            element.className = icon;
         });
+        currentIndex = 0
+        //CurrentSequence = document.querySelectorAll('span.bi');
+        console.log(CurrentSequence);
     }
 
     async function getNextSequence() {
@@ -98,7 +102,7 @@
             const html = await response.text();
 
             document.getElementById('card').innerHTML = html;
-            Reset();
+            CurrentSequence = document.querySelectorAll('span.bi');
         } catch (error) {
             console.error('Error fetching HTML:', error);
             }
@@ -120,8 +124,6 @@
     }
 
     function ResetIcons(id){
-
-
         switch (id){
             case '39':
             return 'bi-arrow-up';
@@ -134,8 +136,6 @@
             default:
             return 'bi-circle';
         }
-
-
     }
 
     function GetKeyName(key) {
@@ -152,6 +152,7 @@
             return 'Unknown';
         }
     }
+
     function Timer(){
         const timer = setInterval(function() {
             count--;
@@ -162,7 +163,7 @@
     }
 
     function gameOver(){
-        
+        alert('Game Over');
     }
 
     const progressBarEl = document.querySelector(".bar");
@@ -178,7 +179,14 @@
             setTimeout(countdown, 1000);
         }else{
             progressBarEl.style.width = "100%";
+            gameOver();
         }
+    }
+
+    function incrementScore(){
+        score++;
+       const scoreBoard =  document.getElementById('scoreBoard');
+       scoreBoard.innerHTML = 'Score: '+score;
     }
 
 countdown();

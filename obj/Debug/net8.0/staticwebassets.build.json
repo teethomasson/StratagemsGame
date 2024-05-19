@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UPxjXuUdhYUdkZ99al48aXT7OfANRlJL4EDiSE0T9Kk=",
+  "Hash": "J9IBc4IH5n0WX2kRUxPhAG1mUGoXm0Unhd8nsHDuprs=",
   "Source": "StratagemsGame",
   "BasePath": "_content/StratagemsGame",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StratagemsGame\\wwwroot",
       "Source": "StratagemsGame",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "d:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StratagemsGame.styles.css",
+      "Identity": "D:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StratagemsGame.styles.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Computed",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "StratagemsGame.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "d:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StratagemsGame.styles.css"
+      "OriginalItemSpec": "D:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\bundle\\StratagemsGame.styles.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StratagemsGame.bundle.scp.css",
+      "Identity": "D:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StratagemsGame.bundle.scp.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Computed",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "StratagemsGame.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "d:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StratagemsGame.bundle.scp.css"
+      "OriginalItemSpec": "D:\\repos\\StratagemsGame\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StratagemsGame.bundle.scp.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\css\\site.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\css\\site.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\favicon.ico",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\favicon.ico",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\HMG Emplacement.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\HMG Emplacement.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Bridge/HMG Emplacement.svg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Bridge\\HMG Emplacement.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital EMS Strike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital EMS Strike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Bridge/Orbital EMS Strike.svg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Bridge\\Orbital EMS Strike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Gas Strike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Gas Strike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Bridge/Orbital Gas Strike.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Bridge\\Orbital Gas Strike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Precision Strike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Precision Strike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Bridge/Orbital Precision Strike.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Bridge\\Orbital Precision Strike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Smoke Strike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Orbital Smoke Strike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Bridge/Orbital Smoke Strike.svg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Bridge\\Orbital Smoke Strike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Shield Generator Relay.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Shield Generator Relay.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Bridge/Shield Generator Relay.svg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Bridge\\Shield Generator Relay.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Tesla Tower.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Bridge\\Tesla Tower.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Bridge/Tesla Tower.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Bridge\\Tesla Tower.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Anti-Personnel Minefield.svg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Anti-Personnel Minefield.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Anti-Tank Mines.svg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Anti-Tank Mines.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Arc Thrower.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Arc Thrower.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Arc Thrower.svg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Arc Thrower.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Ballistic Shield Backpack.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Ballistic Shield Backpack.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Grenade Launcher.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Grenade Launcher.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Grenade Launcher.svg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Grenade Launcher.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Guard Dog Rover.svg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Guard Dog Rover.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Incendiary Mines.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Incendiary Mines.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Incendiary Mines.svg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Incendiary Mines.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Laser Cannon.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Laser Cannon.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Laser Cannon.svg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Laser Cannon.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Quasar Cannon.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Quasar Cannon.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Quasar Cannon.svg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Quasar Cannon.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Shield Generator Pack.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Shield Generator Pack.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Supply Pack.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Engineering Bay\\Supply Pack.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Engineering Bay/Supply Pack.svg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Engineering Bay\\Supply Pack.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Hellbomb.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Hellbomb.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Hellbomb.svg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Hellbomb.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Orbital Illumination Flare.svg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Orbital Illumination Flare.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Prospecting Drill.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Prospecting Drill.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Prospecting Drill.svg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Prospecting Drill.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Reinforce.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Reinforce.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Reinforce.svg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Reinforce.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Resupply.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Resupply.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Resupply.svg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Resupply.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SEAF Artillery.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SEAF Artillery.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/SEAF Artillery.svg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\SEAF Artillery.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Seismic Probe.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Seismic Probe.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Seismic Probe.svg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Seismic Probe.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SOS Beacon.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\SOS Beacon.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/SOS Beacon.svg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\SOS Beacon.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Super Earth Flag.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Super Earth Flag.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Super Earth Flag.svg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Super Earth Flag.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Upload Data.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\General Stratagems\\Upload Data.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/General Stratagems/Upload Data.svg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\General Stratagems\\Upload Data.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle 110MM Rocket Pods.svg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle 110MM Rocket Pods.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle 500KG Bomb.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle 500KG Bomb.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Airstrike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Airstrike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle Airstrike.svg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle Airstrike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle Cluster Bomb.svg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle Cluster Bomb.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle Napalm Airstrike.svg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle Napalm Airstrike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Rearm.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Rearm.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle Rearm.svg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle Rearm.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Smoke Strike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Smoke Strike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle Smoke Strike.svg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle Smoke Strike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Strafing Run.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Eagle Strafing Run.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Eagle Strafing Run.svg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Eagle Strafing Run.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Jump Pack.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Hangar\\Jump Pack.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Hangar/Jump Pack.svg",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Hangar\\Jump Pack.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Orbital Cannons/Orbital 120MM HE Barrage.svg",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Orbital Cannons\\Orbital 120MM HE Barrage.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Orbital Cannons/Orbital 380MM HE Barrage.svg",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Orbital Cannons\\Orbital 380MM HE Barrage.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Orbital Cannons/Orbital Airburst Strike.svg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Orbital Cannons\\Orbital Airburst Strike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Orbital Cannons/Orbital Gatling Barrage.svg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Orbital Cannons\\Orbital Gatling Barrage.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Laser.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Laser.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Orbital Cannons/Orbital Laser.svg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Orbital Cannons\\Orbital Laser.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Orbital Cannons/Orbital Railcannon Strike.svg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Orbital Cannons\\Orbital Railcannon Strike.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Orbital Cannons/Orbital Walking Barrage.svg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Orbital Cannons\\Orbital Walking Barrage.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Airburst Rocket Launcher.svg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Airburst Rocket Launcher.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Anti-Materiel Rifle.svg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Anti-Materiel Rifle.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Autocannon.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Autocannon.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Autocannon.svg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Autocannon.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Expendable Anti-Tank.svg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Expendable Anti-Tank.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Flamethrower.svg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Flamethrower.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Heavy Machine Gun.svg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Heavy Machine Gun.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Machine Gun.svg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Machine Gun.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Railgun.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Railgun.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Railgun.svg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Railgun.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Recoilless Rifle.svg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Recoilless Rifle.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Spear.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Spear.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Spear.svg",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Spear.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Stalwart.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Patriotic Administration Center\\Stalwart.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Patriotic Administration Center/Stalwart.svg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Patriotic Administration Center\\Stalwart.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/Autocannon Sentry.svg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\Autocannon Sentry.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/EMS Mortar Sentry.svg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\EMS Mortar Sentry.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/Gatling Sentry.svg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\Gatling Sentry.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Guard Dog.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Guard Dog.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/Guard Dog.svg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\Guard Dog.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/Machine Gun Sentry.svg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\Machine Gun Sentry.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/Mortar Sentry.svg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\Mortar Sentry.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/Patriot Exosuit.svg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\Patriot Exosuit.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "img/icons/Robotics Workshop/Rocket Sentry.svg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icons\\Robotics Workshop\\Rocket Sentry.svg"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\js\\site.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\js\\site.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "d:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\repos\\StratagemsGame\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "StratagemsGame",
       "SourceType": "Discovered",
-      "ContentRoot": "d:\\repos\\StratagemsGame\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\StratagemsGame\\wwwroot\\",
       "BasePath": "_content/StratagemsGame",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
